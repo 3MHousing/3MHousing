@@ -1,0 +1,7 @@
+site_name: Tự học Python
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
+
